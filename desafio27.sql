@@ -1,1 +1,1 @@
-northwind.order_details;
+DELETE northwind.order_details;
