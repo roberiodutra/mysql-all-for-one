@@ -1,4 +1,4 @@
 SELECT id
-FROM northwind.products
+FROM products
 ORDER BY id DESC
 LIMIT 5;
